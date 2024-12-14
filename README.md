@@ -24,7 +24,7 @@ pip install human-keyboard
 Alternatively, clone the repository and install it manually:
 
 ```bash
-git clone https://github.com/yourusername/human-keyboard.git
+git clone https://github.com/luishacm/human-keyboard.git
 cd human-keyboard
 pip install .
 ```
