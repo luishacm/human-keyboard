@@ -15,7 +15,7 @@
 
 ## Installation
 
-You can install **Human-Keyboard** using `pip` (after uploading it to PyPI):
+You can install **Human-Keyboard** using `pip`:
 
 ```bash
 pip install human-keyboard
