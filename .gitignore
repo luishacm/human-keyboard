@@ -1,0 +1,6 @@
+
+*.gz
+*.whl
+*.txt
+setup.py
+/human_keyboard.egg-info

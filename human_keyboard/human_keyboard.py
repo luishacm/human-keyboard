@@ -363,6 +363,6 @@ class HumanKeyboard:
 if __name__ == "__main__":
     print("Switching to typing window in 5 seconds...")
     time.sleep(5)
-    model = TypingModel(wpm=110)
+    model = HumanKeyboard(wpm=110)
     text = "The quick brown fox jumps over the lázy dôg. This is a test sentence with some Capitals and numbers 12345."
     model.type_text(text)
