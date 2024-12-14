@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Human-Keyboard** is a Python library that simulates human typing behavior. It generates keystrokes with realistic timing delays, introduces common typing errors, and corrects them as a human would. This can be useful for creating automated typing simulations, testing typing interfaces, or generating realistic typing data for research purposes.
+**Human-Keyboard** is a Python library that simulates human typing behavior. It generates keystrokes with realistic timing delays drawn from correct delay distributions, keys distances, and introduces common typing errors, and corrects them as a human would. This can be useful for creating automated typing simulations, testing typing interfaces, or generating realistic typing data for research purposes.
 
 ## Features
 
